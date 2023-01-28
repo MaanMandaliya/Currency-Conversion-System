@@ -61,7 +61,7 @@ optional arguments:
   -o output          Write to output file (or stdout)
 ```
 
-**Note**: Reason for adding --symbol Currency is to decide destination currency. This system supports multiple currencies from below list. So, it is easy to process python program with this input. Below list is covering currencies of most of StateStreet operating [countries](https://www.statestreet.com/ca/en/asset-manager/about/our-story/office-locations).
+**Note**: Reason for adding --symbol Currency is to decide destination currency. This system supports multiple currencies from below list. So, it is easy to process python program with this input. Below list is covering currencies of most popular currencies.
 
 #### Supported Currencies Dictionary: 
 ```
